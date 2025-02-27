@@ -1,11 +1,11 @@
 [
   {
     "id": "p9GvH2QrT5DkLm3F",
-    "customerName": "Sophia Roberts",
+    "customerName": "Emma Smith",
     "channel": "Web",
     "customerEmail": "emma.smith@example.com",
     "customerPhone": "+61-3-9876-5432",
-    "businessEntity": "klinio",
+
     "status": "Active",
     "createdOn": "2023-11-22T14:20:45Z",
     "billingAddress": [
@@ -57,7 +57,7 @@
     "channel": "Web",
     "customerEmail": "carlos@rodriguezcorp.com",
     "customerPhone": "+34-91-555-7890",
-    "businessEntity": "klinio",
+
     "status": "Active",
     "createdOn": "2024-01-05T11:30:22Z",
     "billingAddress": [
@@ -106,7 +106,7 @@
     "channel": "Web",
     "customerEmail": "ytanaka@example.jp",
     "customerPhone": "+81-3-1234-5678",
-    "businessEntity": "klinio",
+
     "status": "Active",
     "createdOn": "2023-10-18T07:15:30Z",
     "billingAddress": [
@@ -155,7 +155,7 @@
     "channel": "Web",
     "customerEmail": "sophie@dubois-design.fr",
     "customerPhone": "+33-1-4567-8901",
-    "businessEntity": "klinio",
+
     "status": "Pending",
     "createdOn": "2023-09-05T15:40:20Z",
     "billingAddress": [
@@ -204,7 +204,7 @@
     "channel": "Web",
     "customerEmail": "raj.patel@pateltech.in",
     "customerPhone": "+91-22-3456-7890",
-    "businessEntity": "klinio",
+
     "status": "Active",
     "createdOn": "2023-12-10T12:25:40Z",
     "billingAddress": [
@@ -253,7 +253,7 @@
     "channel": "Web",
     "customerEmail": "hans.schmidt@schmidt-gmbh.de",
     "customerPhone": "+49-30-1234-5678",
-    "businessEntity": "klinio",
+
     "status": "Active",
     "createdOn": "2024-01-15T09:10:25Z",
     "billingAddress": [
@@ -302,7 +302,7 @@
     "channel": "Web",
     "customerEmail": "maria@silvatech.com.br",
     "customerPhone": "+55-11-9876-5432",
-    "businessEntity": "perfectbody",
+
     "status": "Cancelled",
     "createdOn": "2023-08-22T18:30:10Z",
     "billingAddress": [
@@ -351,7 +351,7 @@
     "channel": "Web",
     "customerEmail": "ahmed@hassangroup.ae",
     "customerPhone": "+971-4-123-4567",
-    "businessEntity": "perfectbody",
+
     "status": "Active",
     "createdOn": "2024-01-28T10:55:20Z",
     "billingAddress": [
@@ -400,7 +400,7 @@
     "channel": "Web",
     "customerEmail": "wei.liu@liuenterprises.cn",
     "customerPhone": "+86-10-8765-4321",
-    "businessEntity": "perfectbody",
+
     "status": "Active",
     "createdOn": "2023-11-12T05:40:15Z",
     "billingAddress": [
@@ -449,7 +449,7 @@
     "channel": "Web",
     "customerEmail": "olga@petrovllc.ru",
     "customerPhone": "+7-495-123-4567",
-    "businessEntity": "perfectbody",
+
     "status": "Active",
     "createdOn": "2023-10-05T13:20:35Z",
     "billingAddress": [
