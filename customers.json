@@ -26,7 +26,7 @@
     "paymentMethods": [
       {
         "cardNumber": "3782822463100052",
-        "cardType": "Amex",
+        "cardType": "MasterCard",
         "expiryDate": "03/27",
         "cardHolderName": "Emma Smith",
         "cvv": "1234",
@@ -78,7 +78,7 @@
     "paymentMethods": [
       {
         "cardNumber": "6011000990139424",
-        "cardType": "Discover",
+        "cardType": "MasterCard",
         "expiryDate": "09/26",
         "cardHolderName": "Carlos Rodriguez",
         "cvv": "789",
@@ -127,7 +127,7 @@
     "paymentMethods": [
       {
         "cardNumber": "3566002020360505",
-        "cardType": "JCB",
+        "cardType": "MasterCard",
         "expiryDate": "11/25",
         "cardHolderName": "Yuki Tanaka",
         "cvv": "321",
@@ -421,7 +421,7 @@
     "paymentMethods": [
       {
         "cardNumber": "3530111333300000",
-        "cardType": "JCB",
+        "cardType": "MasterCard",
         "expiryDate": "06/26",
         "cardHolderName": "Liu Wei",
         "cvv": "456",
@@ -470,7 +470,7 @@
     "paymentMethods": [
       {
         "cardNumber": "2201382000000013",
-        "cardType": "Mir",
+        "cardType": "MasterCard",
         "expiryDate": "09/26",
         "cardHolderName": "Olga Petrov",
         "cvv": "789",
