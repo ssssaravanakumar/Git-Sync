@@ -43,7 +43,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -92,7 +92,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": true,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -141,7 +141,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": false,
       "consolidatedInvoicing": false,
@@ -190,7 +190,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": false,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": true,
       "taxExemption": true,
       "consolidatedInvoicing": true,
@@ -239,7 +239,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -288,7 +288,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": true,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -337,7 +337,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": false,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": true,
       "consolidatedInvoicing": false,
@@ -386,7 +386,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -435,7 +435,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": false,
       "consolidatedInvoicing": true,
@@ -484,7 +484,7 @@
     "configuration": {
       "language": "English",
       "autoCollection": true,
-      "preferredCurrency": "USD",
+      "preferredCurrency": "EUR",
       "directDebit": false,
       "taxExemption": true,
       "consolidatedInvoicing": false,
